@@ -1,3 +1,10 @@
-#Testsúly kalkulátor
+#BMI kalkulátor
 
-bekeres = input("Hány kg vagy?")
+bekeres1 = int(input("Hány kg vagy?: "))
+
+
+
+
+
+
+print(bekeres," kg vagy.")
