@@ -1,10 +1,10 @@
 #BMI kalkulátor
 
-bekeres1 = int(input("Hány kg vagy?: "))
+suly = int(input("Hány kg vagy?: "))
 
 
 
 
 
 
-print(bekeres," kg vagy.")
+print(suly," kg vagy.")
